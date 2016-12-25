@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "As aventuras do ETEQUER", "As aventuras do ETEQUER\As aventuras do ETEQUER.csproj", "{72A8CBEE-C227-4B6A-87E7-D0814825EACE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ETEQUER", "ETEQUER\ETEQUER.vdproj", "{9890B074-BE73-49E2-B0A4-E3595AE8F4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A8CBEE-C227-4B6A-87E7-D0814825EACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A8CBEE-C227-4B6A-87E7-D0814825EACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A8CBEE-C227-4B6A-87E7-D0814825EACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A8CBEE-C227-4B6A-87E7-D0814825EACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9890B074-BE73-49E2-B0A4-E3595AE8F4C9}.Debug|Any CPU.ActiveCfg = Debug
+		{9890B074-BE73-49E2-B0A4-E3595AE8F4C9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

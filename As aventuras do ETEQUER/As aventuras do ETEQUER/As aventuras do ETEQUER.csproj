@@ -1,0 +1,258 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{72A8CBEE-C227-4B6A-87E7-D0814825EACE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>As_aventuras_do_ETEQUER</RootNamespace>
+    <AssemblyName>As aventuras do ETEQUER</AssemblyName>
+    <ApplicationIcon>Icone.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chefe_Agustinho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefe_Agustinho.Designer.cs">
+      <DependentUpon>Chefe_Agustinho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefe_Muacir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefe_Muacir.Designer.cs">
+      <DependentUpon>Chefe_Muacir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configura.Designer.cs">
+      <DependentUpon>Configura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configura_InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configura_InputBox.Designer.cs">
+      <DependentUpon>Configura_InputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlPanel.Designer.cs">
+      <DependentUpon>ControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fundo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fundo.Designer.cs">
+      <DependentUpon>Fundo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpCredits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpCredits.Designer.cs">
+      <DependentUpon>HelpCredits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogo.Designer.cs">
+      <DependentUpon>Jogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load Inicial.Designer.cs">
+      <DependentUpon>Load Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefe_LouisCarlos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefe_LouisCarlos.Designer.cs">
+      <DependentUpon>Chefe_LouisCarlos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefe_Marcelu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefe_Marcelu.Designer.cs">
+      <DependentUpon>Chefe_Marcelu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opcoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opcoes.Designer.cs">
+      <DependentUpon>Opcoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Placar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Placar.Designer.cs">
+      <DependentUpon>Placar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Chefe_Agustinho.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Chefe_Agustinho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefe_LouisCarlos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Chefe_LouisCarlos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefe_Marcelu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Chefe_Marcelu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefe_Muacir.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Chefe_Muacir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configura.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Configura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configura_InputBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Configura_InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlPanel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fundo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Fundo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpCredits.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HelpCredits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Jogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load Inicial.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Load Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opcoes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Opcoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Placar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Placar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Videos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Videos.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Videos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Videos.Designer.cs">
+      <DependentUpon>Videos.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icone.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

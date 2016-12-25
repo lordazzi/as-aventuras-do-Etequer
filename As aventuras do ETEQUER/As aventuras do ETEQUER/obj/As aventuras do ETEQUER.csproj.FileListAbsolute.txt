@@ -1,0 +1,112 @@
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.exe
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.pdb
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\As aventuras do ETEQUER.exe
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\As aventuras do ETEQUER.pdb
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\Interop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\AxInterop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\ResolveAssemblyReference.cache
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\Interop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\AxInterop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.csproj.ResolveComReference.cache
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Configura.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Configura_InputBox.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.ControlPanel.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Fundo.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Jogo.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Load_Inicial.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.MainMenu.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Opcoes.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Placar.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Properties.Resources.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Videos.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.csproj.GenerateResource.Cache
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Chefe_Marcelu.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Chefe_Muacir.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Chefe_Agustinho.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Louis_Carlos.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.HelpCredits.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.exe
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.pdb
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\As aventuras do ETEQUER.exe
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\As aventuras do ETEQUER.pdb
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\Interop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\AxInterop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\ResolveAssemblyReference.cache
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\Interop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\AxInterop.WMPLib.dll
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.csproj.ResolveComReference.cache
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Chefe_Agustinho.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Louis_Carlos.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Chefe_Marcelu.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Chefe_Muacir.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Configura.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Configura_InputBox.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.ControlPanel.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Fundo.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.HelpCredits.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Jogo.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Load_Inicial.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.MainMenu.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Opcoes.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Placar.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Properties.Resources.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Videos.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.csproj.GenerateResource.Cache
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Register.resources
+E:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Register.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.exe
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.pdb
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\As aventuras do ETEQUER.exe
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\As aventuras do ETEQUER.pdb
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\Interop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Debug\AxInterop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\ResolveAssemblyReference.cache
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\Interop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\AxInterop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.csproj.ResolveComReference.cache
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Chefe_Agustinho.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Louis_Carlos.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Chefe_Marcelu.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Chefe_Muacir.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Configura.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Configura_InputBox.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.ControlPanel.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Fundo.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.HelpCredits.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Jogo.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Load_Inicial.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.MainMenu.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Opcoes.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Placar.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Properties.Resources.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Register.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As_aventuras_do_ETEQUER.Videos.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Debug\As aventuras do ETEQUER.csproj.GenerateResource.Cache
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.exe
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.pdb
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\As aventuras do ETEQUER.exe
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\As aventuras do ETEQUER.pdb
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\Interop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\bin\Release\AxInterop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\ResolveAssemblyReference.cache
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\Interop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\AxInterop.WMPLib.dll
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.csproj.ResolveComReference.cache
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Chefe_Agustinho.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Louis_Carlos.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Chefe_Marcelu.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Chefe_Muacir.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Configura.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Configura_InputBox.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.ControlPanel.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Fundo.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.HelpCredits.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Jogo.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Load_Inicial.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.MainMenu.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Opcoes.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Placar.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Properties.Resources.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Register.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As_aventuras_do_ETEQUER.Videos.resources
+F:\TCC\As aventuras do ETEQUER\As aventuras do ETEQUER\obj\Release\As aventuras do ETEQUER.csproj.GenerateResource.Cache

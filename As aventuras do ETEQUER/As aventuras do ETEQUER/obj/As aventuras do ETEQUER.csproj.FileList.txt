@@ -1,0 +1,56 @@
+bin\Debug\As aventuras do ETEQUER.exe
+bin\Debug\As aventuras do ETEQUER.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\As_aventuras_do_ETEQUER.ControlPanel.resources
+obj\Debug\As_aventuras_do_ETEQUER.Fundo.resources
+obj\Debug\As_aventuras_do_ETEQUER.Jogo.resources
+obj\Debug\As_aventuras_do_ETEQUER.MainMenu.resources
+obj\Debug\As_aventuras_do_ETEQUER.Properties.Resources.resources
+obj\Debug\As aventuras do ETEQUER.csproj.GenerateResource.Cache
+obj\Debug\As aventuras do ETEQUER.exe
+obj\Debug\As aventuras do ETEQUER.pdb
+obj\Debug\As_aventuras_do_ETEQUER.Placar.resources
+obj\Debug\As_aventuras_do_ETEQUER.Load_Inicial.resources
+obj\Debug\As_aventuras_do_ETEQUER.Configura.resources
+obj\Debug\As_aventuras_do_ETEQUER.Configura_InputBox.resources
+obj\Debug\As_aventuras_do_ETEQUER.Opcoes.resources
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\As aventuras do ETEQUER.csproj.ResolveComReference.cache
+bin\Debug\Interop.WMPLib.dll
+bin\Debug\AxInterop.WMPLib.dll
+obj\Debug\As_aventuras_do_ETEQUER.Videos.resources
+obj\Release\As aventuras do ETEQUER.exe
+obj\Release\As aventuras do ETEQUER.pdb
+bin\Release\As aventuras do ETEQUER.exe
+bin\Release\As aventuras do ETEQUER.pdb
+bin\Release\Interop.WMPLib.dll
+bin\Release\AxInterop.WMPLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.WMPLib.dll
+obj\Release\AxInterop.WMPLib.dll
+obj\Release\As aventuras do ETEQUER.csproj.ResolveComReference.cache
+obj\Release\As_aventuras_do_ETEQUER.Configura.resources
+obj\Release\As_aventuras_do_ETEQUER.Configura_InputBox.resources
+obj\Release\As_aventuras_do_ETEQUER.ControlPanel.resources
+obj\Release\As_aventuras_do_ETEQUER.Fundo.resources
+obj\Release\As_aventuras_do_ETEQUER.Jogo.resources
+obj\Release\As_aventuras_do_ETEQUER.Load_Inicial.resources
+obj\Release\As_aventuras_do_ETEQUER.MainMenu.resources
+obj\Release\As_aventuras_do_ETEQUER.Opcoes.resources
+obj\Release\As_aventuras_do_ETEQUER.Placar.resources
+obj\Release\As_aventuras_do_ETEQUER.Properties.Resources.resources
+obj\Release\As_aventuras_do_ETEQUER.Videos.resources
+obj\Release\As aventuras do ETEQUER.csproj.GenerateResource.Cache
+obj\Debug\As_aventuras_do_ETEQUER.Chefe_Marcelu.resources
+obj\Debug\As_aventuras_do_ETEQUER.Chefe_Muacir.resources
+obj\Debug\As_aventuras_do_ETEQUER.Chefe_Agustinho.resources
+obj\Debug\As_aventuras_do_ETEQUER.Louis_Carlos.resources
+obj\Debug\As_aventuras_do_ETEQUER.HelpCredits.resources
+obj\Release\As_aventuras_do_ETEQUER.Chefe_Agustinho.resources
+obj\Release\As_aventuras_do_ETEQUER.Louis_Carlos.resources
+obj\Release\As_aventuras_do_ETEQUER.Chefe_Marcelu.resources
+obj\Release\As_aventuras_do_ETEQUER.Chefe_Muacir.resources
+obj\Release\As_aventuras_do_ETEQUER.HelpCredits.resources
+obj\Debug\As_aventuras_do_ETEQUER.Register.resources
+obj\Release\As_aventuras_do_ETEQUER.Register.resources

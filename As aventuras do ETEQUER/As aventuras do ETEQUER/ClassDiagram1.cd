@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="As_aventuras_do_ETEQUER.Chefe_Agustinho">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Chefe_Agustinho.cs</FileName>
+      <HashCode>GAAAIGggESBwECgQQAWApmECAAAAgAAAQACRAwDBAAg=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="ConvertToIMG" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Louis_Carlos">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Chefe_LouisCarlos.cs</FileName>
+      <HashCode>SIOSqihSATK+mQhCwADRjwAaAQSgRGLQFMKRi5EgJEg=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="ConvertToIMG" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Chefe_Marcelu">
+    <Position X="4" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Chefe_Marcelu.cs</FileName>
+      <HashCode>SABIODLAiSQ4B5DgdAOAAkxCgggQXBoAGkiBEgIIKUA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="ConvertToIMG" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Chefe_Muacir">
+    <Position X="2.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Chefe_Muacir.cs</FileName>
+      <HashCode>CCAAilEIgSQq0KALTMDBKgUCAAiBjAAAB4B1vwEFEko=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="ConvertToIMG" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Configura">
+    <Position X="0.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Configura.cs</FileName>
+      <HashCode>QAoQRAQQEmAgBFAKYACMgAYKAAaAAICBhBAEBQBwoBg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Configura_InputBox">
+    <Position X="2.25" Y="37.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Configura_InputBox.cs</FileName>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAABAABAAQAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.ControlPanel">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ControlPanel.cs</FileName>
+      <HashCode>CAQAACIAACFAAFACgICAAAAiAQCQABAgAAgAYYAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Fundo">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Fundo.cs</FileName>
+      <HashCode>CgAAAAAAASAAAAAAAICAgAACEwGAAAAAACARIQAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.HelpCredits">
+    <Position X="2.25" Y="27.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>HelpCredits.cs</FileName>
+      <HashCode>AAAAAAAIACAAAAAACACAAAACAAQBAEAEAAAAAQAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Jogo">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Jogo.cs</FileName>
+      <HashCode>nZPSG3OLZXf7s/ne5vPlj/nLv0veiIX4d2vh/3e/3b8=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="ConvertToIMG" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Load_Inicial">
+    <Position X="4" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Load Inicial.cs</FileName>
+      <HashCode>AAAAAAAAACAAIAAAAACAIAACAAAAAAAAQAAIAQAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.MainMenu">
+    <Position X="0.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainMenu.cs</FileName>
+      <HashCode>AIJwQAACAGAgAUM4ZQCMIkACCAAAgEMAAQABFUI4IhA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Opcoes">
+    <Position X="2.25" Y="31" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Opcoes.cs</FileName>
+      <HashCode>AAAQABAAAmAgAEIIBBCEEAECgAAAAAAAACBBBQDBIAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Placar">
+    <Position X="0.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Placar.cs</FileName>
+      <HashCode>QAIQAAABACAggEAAAQDOCQJiQAQjgAIQCBKA1QCeAIE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Program">
+    <Position X="2.25" Y="40.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Videos">
+    <Position X="4" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Videos.cs</FileName>
+      <HashCode>AEBAACAADCBDAAAAAACAAAECAAAAQAAAAAABAQACQAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Properties.Resources">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="As_aventuras_do_ETEQUER.Properties.Settings">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
